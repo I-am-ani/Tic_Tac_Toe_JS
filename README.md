@@ -8,3 +8,6 @@ or diagonal row wins the game! How many rounds in a row can you win?
 
 # Tech Stack: 
 HTML, CSS, JavaScript
+
+# Publish
+Site is published at https://i-am-ani.github.io/Tic_Tac_Toe_JS/
